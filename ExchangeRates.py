@@ -1,10 +1,8 @@
 '''
 ExchangeRates.py
-Anissa Raj- Assignment 1
-
+Anissa Raj - FINE 3300 Assignment 1, Part 1 (no AI used)
 Exchange Rate Calculator: ExchangeRates class definition and implementation
 '''
-
 import csv
 
 class ExchangeRates:
